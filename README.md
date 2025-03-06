@@ -1,4 +1,4 @@
-# Deep Learning Application into Estimating Ecosystem Respiration across Global Drylands 
+# Deep Learning for Estimating Ecosystem Respiration in Global Drylands
 
 # Description 
 This project uses long-short term memory network (LSTM) to improve ecosystem respiration predictions via a unique combination of different environmental forcings.
